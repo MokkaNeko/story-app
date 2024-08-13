@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_primary">#19A47B</color>
+    <color name="red_primary">#E86583</color>
+    <color name="grey_disable">#C5C7C4</color>
+    <color name="green_secondary">#9DF4CF</color>
+    <color name="grey_secondary">#E1E3DF</color>
+    <color name="green_tersier">#E7FFF1</color>
+    <color name="splash_screen_background">#2C2C2C</color>
+</resources>
